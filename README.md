@@ -1,6 +1,9 @@
 # cdk-inchi-to-svg
 Version: 0.9
 
+[![install with bioconda](https://img.shields.io/badge/install%20with-bioconda-brightgreen.svg?style=flat)](http://bioconda.github.io/recipes/cdk-inchi-to-svg/README.html)[![Anaconda-Server Badge](https://anaconda.org/bioconda/cdk-inchi-to-svg/badges/version.svg)](https://anaconda.org/bioconda/cdk-inchi-to-svg)
+
+
 ## Short Description
 Convert an InChI string to a SVG file
 
